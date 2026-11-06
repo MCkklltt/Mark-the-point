@@ -1,0 +1,18 @@
+# Build output
+build/
+out/
+run/
+run-data/
+.gradle/
+.gradle-home/
+_scratch/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
